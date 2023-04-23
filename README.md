@@ -32,7 +32,7 @@ If having any troubles with VideoCapture compile, contact the program developers
 
 # License
 
-VideoCapture and its source codes are licensed and distributed under the terms of GNU General Public License 3.0 or newer version.
+VideoCapture and its source codes are licensed and distributed under the terms of GNU General Public License 2.0 or newer version.
 See [LICENSE](LICENSE) file for more details.
 
 <br><br>
